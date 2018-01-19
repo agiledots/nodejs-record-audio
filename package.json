@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-record",
+  "version": "1.0.0",
+  "description": "this is a sample",
+  "main": "index.js",
+  "dependencies": {
+    "@ionic/cli-utils": "^1.19.1",
+    "fs": "0.0.1-security",
+    "node-record-lpcm16": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
